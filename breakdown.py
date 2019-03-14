@@ -1,9 +1,9 @@
 import pickle
 import time
 
-naem = ['Set2','Set3','Set4','Set5','Set6']
-sublist = ['politics']
-subs = {'politics':[]}
+naem = [<names of files>]
+sublist = [<names of subs>]
+subs = {<dicts with subs as names to lists>}
 
 
 for y in naem:
