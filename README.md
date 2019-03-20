@@ -9,7 +9,9 @@ As a warning if you want to fix this, some of these have bugs and are from diffe
 
 To use properly:
   Run redditInfo.py
+  
   Run the output through split.py
+  
   Then analyze results through analyze.py
   
   Simple.
