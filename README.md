@@ -1,4 +1,7 @@
 # SIPbot
+
+##THIS PROJECT IS BEING ARCHIVED##
+
 Hi, I'm Brad. This is one of my bots.
 SIPbot is for my Senior Inquiry Project, and gathers information from different subreddits
 to then later analyze (and no I'm not giving you my praw.ini). He's currently set up to analyze data from 4 subreddits: r/politics, r/democrats, r/The_Donald, and r/bossfight
